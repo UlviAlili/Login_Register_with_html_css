@@ -1,5 +1,4 @@
-# Website_with_html_css
-Login and Register with html and css
+## Login and Register with html and css
 
 ## Login page
 
